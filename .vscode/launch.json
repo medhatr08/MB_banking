@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AddUser",
+            "request": "launch",
+            "mainClass": "YourBank.AddUser",
+            "projectName": "Banking Java_8d00f556"
+        },
+        {
+            "type": "java",
+            "name": "Amount",
+            "request": "launch",
+            "mainClass": "YourBank.Amount",
+            "projectName": "Banking Java_8d00f556"
+        },
+        {
+            "type": "java",
+            "name": "Bank",
+            "request": "launch",
+            "mainClass": "YourBank.Bank",
+            "projectName": "Banking Java_8d00f556"
+        },
+        {
+            "type": "java",
+            "name": "CheckBalance",
+            "request": "launch",
+            "mainClass": "YourBank.CheckBalance",
+            "projectName": "Banking Java_8d00f556"
+        },
+        {
+            "type": "java",
+            "name": "Deposit",
+            "request": "launch",
+            "mainClass": "YourBank.Deposit",
+            "projectName": "Banking Java_8d00f556"
+        },
+        {
+            "type": "java",
+            "name": "Details",
+            "request": "launch",
+            "mainClass": "YourBank.Details",
+            "projectName": "Banking Java_8d00f556"
+        },
+        {
+            "type": "java",
+            "name": "GetuserDetails",
+            "request": "launch",
+            "mainClass": "YourBank.GetuserDetails",
+            "projectName": "Banking Java_8d00f556"
+        },
+        {
+            "type": "java",
+            "name": "Login",
+            "request": "launch",
+            "mainClass": "YourBank.Login",
+            "projectName": "Banking Java_8d00f556"
+        },
+        {
+            "type": "java",
+            "name": "Manager",
+            "request": "launch",
+            "mainClass": "YourBank.Manager",
+            "projectName": "Banking Java_8d00f556"
+        },
+        {
+            "type": "java",
+            "name": "MiniStatement",
+            "request": "launch",
+            "mainClass": "YourBank.MiniStatement",
+            "projectName": "Banking Java_8d00f556"
+        },
+        {
+            "type": "java",
+            "name": "Staff",
+            "request": "launch",
+            "mainClass": "YourBank.Staff",
+            "projectName": "Banking Java_8d00f556"
+        },
+        {
+            "type": "java",
+            "name": "Withdrawl",
+            "request": "launch",
+            "mainClass": "YourBank.Withdrawl",
+            "projectName": "Banking Java_8d00f556"
+        }
+    ]
+}
